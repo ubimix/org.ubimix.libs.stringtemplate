@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ClassPath: .
+Bundle-Name: org.stringtemplate
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-Version: 4.0.0
+Bundle-ManifestVersion: 2
+Bundle-License: BSD license
+Bundle-Description: ANTLR StringTemplate 4.0 library re-packaged as an OSGi plugin.
+Bundle-SymbolicName: org.stringtemplate
+
