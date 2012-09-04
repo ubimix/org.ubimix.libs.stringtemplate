@@ -3,12 +3,12 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>org.webreformatter.libs</groupId>
-        <artifactId>org.webreformatter.libs.poms</artifactId>
-        <version>1.1.5</version>
+        <groupId>org.ubimix.poms</groupId>
+        <artifactId>org.ubimix.poms.bundle</artifactId>
+        <version>1.2.1</version>
     </parent>
-    <groupId>org.webreformatter.libs</groupId>
-    <artifactId>org.stringtemplate</artifactId>
+    <groupId>org.ubimix.libs</groupId>
+    <artifactId>org.ubimix.libs.stringtemplate</artifactId>
     <name>${project.artifactId}</name>
     <version>4.0.0</version>
     <packaging>bundle</packaging>
